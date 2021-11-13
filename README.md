@@ -15,7 +15,7 @@ Computer vision trains machines to perform these functions, but it needs to be d
 Computer vision is used in industries ranging from energy and utilities to manufacturing and automotive, and the market continues to grow. It is expected to reach $ 48.6 billion in 2022.
 
 2.	What is Haar cascades:
-3.	
+
 Introduced in 2001 by Viola and Jones in their publication “Rapid Object Detection using a Boosted Cascade of Simple Features”, and are OpenCV´s most popular object detection algorithm. 
 
 There are many other algorithms more accurate than Haar cascades like HOG (Histogram of Oriented Gradient) + Linear SVM, SSDs, Faster R-CNN, YOLO (You Only Look Once - Deep Learning) … etc, but Haar cascades still useful and relevant till today. 
